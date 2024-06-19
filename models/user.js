@@ -8,9 +8,9 @@ const userSchema = new Schema({
     gender: { type: String, required: true },
     address: { type: String, required: true },
     password: { type: String, required: true },
-    // otp: { type: String },
-    // otpExpires: { type: Date },
-    // isVerified: { type: Boolean, default: false },
+    otp: { type: String },
+    otpExpires: { type: Date },
+    isVerified: { type: Boolean, default: false }
 
 })
 
