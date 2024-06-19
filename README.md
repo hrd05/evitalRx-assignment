@@ -35,4 +35,4 @@ This project provides a set of RESTful APIs for user management using Node.js an
 
 You can find detailed API documentation and examples in the provided Postman collection:
 
-- [Postman Documentation]: https://documenter.getpostman.com/view/29678206/2sA3XTeKj4
+Postman Documentation: https://documenter.getpostman.com/view/29678206/2sA3XTeKj4
